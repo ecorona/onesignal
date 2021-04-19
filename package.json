@@ -15,7 +15,7 @@
     "url": "https://github.com/kvandake/onesignal"
   },
   "bugs": {
-    "url": "https://github.com/kvandake/onesignal/issues"
+    "url": "https://github.com/ecorona/onesignal/issues"
   },
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -32,14 +32,14 @@
     "postversion": "git push && git push --tags"
   },
   "dependencies": {
-    "axios": "^0.19.0"
+    "axios": "^0.21.0"
   },
   "devDependencies": {
-    "@types/jest": "^24.0.22",
+    "@types/jest": "^26.0.22",
     "jest": "^24.9.0",
     "prettier": "^1.19.1",
     "rimraf": "^3.0.0",
-    "ts-jest": "^24.1.0",
+    "ts-jest": "^26.5.5",
     "tslint": "^6.0.0-beta0",
     "tslint-config-prettier": "^1.18.0",
     "typescript": "^3.7.2"
